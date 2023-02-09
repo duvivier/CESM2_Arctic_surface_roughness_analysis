@@ -1,1 +1,7 @@
-Readme
+February 2023
+
+Scripts and analysis used for manuscript submission to Journal of Climate investigating
+how surface roughness impacts near surface winds and sea ice mean state and trends.
+
+This repository has the scripts necessary for creating figures and code modifications used for
+the SMOOTH ensemble members.
