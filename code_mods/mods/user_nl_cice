@@ -1,0 +1,15 @@
+!----------------------------------------------------------------------------------
+! Users should add all user specific namelist changes below in the form of 
+!   namelist_var = new_namelist_value 
+! Note - that it does not matter what namelist group the namelist_var belongs to
+!----------------------------------------------------------------------------------
+histfreq = "m", "d", "x", "x", "x"
+histfreq_n = 1, 1, 0, 0, 0
+f_CMIP = 'mdxx'
+f_snoice = 'mdxx'
+f_flat = 'mdxx'
+f_fsens = 'mdxx'
+f_flwdn = 'mdxx' 
+f_flwup = 'mdxx'
+f_strairx = 'mdxx'
+f_strairy = 'mdxx' 
