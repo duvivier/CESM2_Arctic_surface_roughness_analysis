@@ -1,0 +1,52 @@
+name: analysis2
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - dask-jobqueue
+  - scikit-learn
+  - xesmf
+  - metpy
+  - numpy
+  - pop-tools
+  - dask
+  - scipy
+  - intake-esm
+  - python=3.7
+  - matplotlib
+  - nc-time-axis
+  - ipywidgets
+  - xgcm
+  - jupyter_contrib_nbextensions
+  - seawater
+  - netcdf4
+  - intake
+  - xarray
+  - toolz
+  - pandas
+  - numba
+  - cmocean
+  - pip
+  - bottleneck
+  - seaborn
+  - pytest
+  - cf_units
+  - statsmodels
+  - xhistogram
+  - cftime
+  - regionmask
+  - xrft
+  - zarr
+  - ncar-jobqueue
+  - cartopy
+  - jupyterlab
+  - tabulate
+  - tqdm
+  - esmpy
+  - dask-mpi
+  - bokeh==1.4.0
+  - watermark
+  - esmlab
+  - distributed
+  - pint
+prefix: /glade/work/duvivier/miniconda3/envs/analysis2

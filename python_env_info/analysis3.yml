@@ -1,0 +1,55 @@
+name: analysis3
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - pytest
+  - statsmodels
+  - toolz
+  - xgcm
+  - pint
+  - dask-mpi
+  - bottleneck
+  - seaborn
+  - metpy
+  - intake
+  - cftime
+  - watermark
+  - zarr
+  - dask-jobqueue
+  - tqdm
+  - cmocean
+  - ipywidgets
+  - regionmask
+  - intake-esm
+  - numba
+  - xesmf
+  - pop-tools
+  - esmpy
+  - nc-time-axis
+  - xarray
+  - pandas
+  - bokeh
+  - ncar-jobqueue
+  - cartopy
+  - numpy
+  - jupyter_contrib_nbextensions
+  - esmlab
+  - xhistogram
+  - jupyterlab
+  - xrft
+  - matplotlib
+  - tabulate
+  - cf_units
+  - distributed
+  - python=3.7
+  - dask
+  - netcdf4
+  - scikit-learn
+  - pip
+  - scipy
+  - seawater
+  - geocat-comp
+  - geocat-viz
+  - geocat-datafiles
+prefix: /glade/work/duvivier/miniconda3/envs/analysis3
