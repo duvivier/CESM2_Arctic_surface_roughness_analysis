@@ -1,12 +1,8 @@
-These experiments used the CESM version cesm2.1.4-exp03/, the same version of code used for the CESM2-Large Ensemble.
-
-The following workflow/notes were used for the experiments:
-
-
 ARCTIC SURFACE ROUGHNESS EXPERIMENT WORKFLOW
 
 1) GETTING CESM CODE
-
+Want to use the same version of the code as the CESM2-Large Ensemble so that we can use the CESM2-LE as a control. 
+(CESM version cesm2.1.4-exp03 is the CESM2-LE code base, as per Nan Rosenblom email)
 https://www.cesm.ucar.edu/models/cesm2/release_download.html
 https://github.com/ESCOMP/CESM/releases/tag/cesm2.1.4-exp03
 https://www.cesm.ucar.edu/models/cesm2/config/2.1.0/compsets.html
@@ -20,7 +16,6 @@ No restart files available in 1920. But ensembles 001, 002, 003, 004, 005, 006, 
 >git clone -b cesm2.1.4-exp03 https://github.com/ESCOMP/CESM.git cesm2.1.4-exp03
 >cd cesm2.1.4-exp03/
 >./manage_externals/checkout_externals
-(This is the CESM2-LE code base, as per Nan)
 
 3) HISTORICAL EXPERIMENT (1 ENS) SET UP
 Create a case:
