@@ -1,7 +1,7 @@
-August 2023
+Last Update: August 2023
 
-Scripts and analysis used for manuscript investigating how surface roughness impacts near surface winds and sea ice mean state and trends.
+This repository holds the computational Jupyter Notebooks needed for analysis of the CESM2 model data from the CESM2 Large Ensemble and the SMOOTH model experiments. These tools are used for a manuscript investigating how surface roughness impacts near surface winds and sea ice mean state and trends. The repository also contains the computational notebooks needed for processing SMOOTH ensemble member data as well as the fortran code modifications used for the SMOOTH model experiments.
 
-This repository has the scripts necessary for creating figures and code modifications used for the SMOOTH ensemble members.
+Manuscript: DuVivier, A.K. et al. (2023). "Investigating future Arctic sea ice loss and near-surface wind speed changes related to surface roughness using the Community Earth System Model". Journal of Geophysical Research - Atmospheres.
 
-DuVivier, A.K. et al. (2023) "Investigating future Arctic sea ice loss and near-surface wind speed changes related to surface roughness using the Community Earth System Model". Journal of Geophysical Research - Atmospheres
+SMOOTH data: DuVivier, A.K. et al. (2023). "CESM2 SMOOTH experiments". Version 1.0. UCAR/NCAR - GDEX. https://doi.org/10.5065/gc1t-kg59
